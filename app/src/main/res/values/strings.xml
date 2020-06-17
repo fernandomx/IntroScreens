@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IntroScreens</string>
+
+
+    <string name="title1">Welcome</string>
+    <string name="title2">Improve Your Skills</string>
+    <string name="title3">Grow your Audience</string>
+
+
+    <string name="description">"Lorem impsum dolor sit amte, alksjdlkajsdfajsdlfjalkasdflkjasdlfkjalskdjf"</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
